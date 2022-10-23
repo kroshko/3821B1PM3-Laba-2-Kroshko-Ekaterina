@@ -1,6 +1,6 @@
 #include<iostream>
 #include "vector.h"
-#include "Matrix.h"
+#include "metrix.h"
 int main() {
   int n = 3;
   TDynamicVector<int>a(n);
